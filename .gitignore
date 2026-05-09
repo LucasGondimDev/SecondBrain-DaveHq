@@ -1,0 +1,8 @@
+-e .env
+.env.*
+*.log
+node_modules/
+.DS_Store
+credentials/
+*.bak
+openclaw.json
